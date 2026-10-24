@@ -5,4 +5,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/prekshadixit/leetcode.prek/tree/master/0009-palindrome-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/prekshadixit/leetcode.prek/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Array
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/prekshadixit/leetcode.prek/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/prekshadixit/leetcode.prek/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/prekshadixit/leetcode.prek/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/prekshadixit/leetcode.prek/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
