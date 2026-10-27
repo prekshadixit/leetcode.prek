@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/prekshadixit/leetcode.prek/tree/master/0078-subsets) |
 | [0204-count-primes](https://github.com/prekshadixit/leetcode.prek/tree/master/0204-count-primes) |
 | [0704-binary-search](https://github.com/prekshadixit/leetcode.prek/tree/master/0704-binary-search) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prekshadixit/leetcode.prek/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -81,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/prekshadixit/leetcode.prek/tree/master/0704-binary-search) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/prekshadixit/leetcode.prek/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/prekshadixit/leetcode.prek/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
