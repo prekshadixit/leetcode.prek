@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/prekshadixit/leetcode.prek/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/prekshadixit/leetcode.prek/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/prekshadixit/leetcode.prek/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/prekshadixit/leetcode.prek/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prekshadixit/leetcode.prek/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Array
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/prekshadixit/leetcode.prek/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/prekshadixit/leetcode.prek/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/prekshadixit/leetcode.prek/tree/master/1922-count-good-numbers) |
 ## Hash Table
 |  |
 | ------- |
