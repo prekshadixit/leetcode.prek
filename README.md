@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/prekshadixit/leetcode.prek/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/prekshadixit/leetcode.prek/tree/master/0078-subsets) |
 | [0204-count-primes](https://github.com/prekshadixit/leetcode.prek/tree/master/0204-count-primes) |
 | [0414-third-maximum-number](https://github.com/prekshadixit/leetcode.prek/tree/master/0414-third-maximum-number) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/prekshadixit/leetcode.prek/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/prekshadixit/leetcode.prek/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/prekshadixit/leetcode.prek/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
