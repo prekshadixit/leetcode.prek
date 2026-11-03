@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/prekshadixit/leetcode.prek/tree/master/0078-subsets) |
 | [0204-count-primes](https://github.com/prekshadixit/leetcode.prek/tree/master/0204-count-primes) |
+| [0414-third-maximum-number](https://github.com/prekshadixit/leetcode.prek/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/prekshadixit/leetcode.prek/tree/master/0704-binary-search) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prekshadixit/leetcode.prek/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/prekshadixit/leetcode.prek/tree/master/0078-subsets) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/prekshadixit/leetcode.prek/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
