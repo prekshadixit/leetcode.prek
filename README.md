@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0065-valid-number](https://github.com/prekshadixit/leetcode.prek/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/prekshadixit/leetcode.prek/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
