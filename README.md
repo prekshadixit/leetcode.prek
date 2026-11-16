@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/prekshadixit/leetcode.prek/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/prekshadixit/leetcode.prek/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/prekshadixit/leetcode.prek/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/prekshadixit/leetcode.prek/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/prekshadixit/leetcode.prek/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/prekshadixit/leetcode.prek/tree/master/0202-happy-number) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prekshadixit/leetcode.prek/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prekshadixit/leetcode.prek/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/prekshadixit/leetcode.prek/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/prekshadixit/leetcode.prek/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/prekshadixit/leetcode.prek/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/prekshadixit/leetcode.prek/tree/master/0169-majority-element) |
