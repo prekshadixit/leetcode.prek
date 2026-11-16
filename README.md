@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prekshadixit/leetcode.prek/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/prekshadixit/leetcode.prek/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/prekshadixit/leetcode.prek/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/prekshadixit/leetcode.prek/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/prekshadixit/leetcode.prek/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/prekshadixit/leetcode.prek/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/prekshadixit/leetcode.prek/tree/master/0268-missing-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prekshadixit/leetcode.prek/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/prekshadixit/leetcode.prek/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/prekshadixit/leetcode.prek/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/prekshadixit/leetcode.prek/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prekshadixit/leetcode.prek/tree/master/0349-intersection-of-two-arrays) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/prekshadixit/leetcode.prek/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/prekshadixit/leetcode.prek/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prekshadixit/leetcode.prek/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/prekshadixit/leetcode.prek/tree/master/0414-third-maximum-number) |
@@ -127,4 +130,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/prekshadixit/leetcode.prek/tree/master/0525-contiguous-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prekshadixit/leetcode.prek/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prekshadixit/leetcode.prek/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prekshadixit/leetcode.prek/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
