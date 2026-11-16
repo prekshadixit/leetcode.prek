@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/prekshadixit/leetcode.prek/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/prekshadixit/leetcode.prek/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/prekshadixit/leetcode.prek/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/prekshadixit/leetcode.prek/tree/master/0525-contiguous-array) |
 | [0704-binary-search](https://github.com/prekshadixit/leetcode.prek/tree/master/0704-binary-search) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prekshadixit/leetcode.prek/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/prekshadixit/leetcode.prek/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/prekshadixit/leetcode.prek/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prekshadixit/leetcode.prek/tree/master/0349-intersection-of-two-arrays) |
+| [0525-contiguous-array](https://github.com/prekshadixit/leetcode.prek/tree/master/0525-contiguous-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prekshadixit/leetcode.prek/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prekshadixit/leetcode.prek/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/prekshadixit/leetcode.prek/tree/master/0414-third-maximum-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/prekshadixit/leetcode.prek/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
