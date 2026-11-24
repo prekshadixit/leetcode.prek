@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/prekshadixit/leetcode.prek/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/prekshadixit/leetcode.prek/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/prekshadixit/leetcode.prek/tree/master/0525-contiguous-array) |
+| [0645-set-mismatch](https://github.com/prekshadixit/leetcode.prek/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/prekshadixit/leetcode.prek/tree/master/0704-binary-search) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prekshadixit/leetcode.prek/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prekshadixit/leetcode.prek/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prekshadixit/leetcode.prek/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prekshadixit/leetcode.prek/tree/master/0349-intersection-of-two-arrays) |
 | [0525-contiguous-array](https://github.com/prekshadixit/leetcode.prek/tree/master/0525-contiguous-array) |
+| [0645-set-mismatch](https://github.com/prekshadixit/leetcode.prek/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/prekshadixit/leetcode.prek/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/prekshadixit/leetcode.prek/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/prekshadixit/leetcode.prek/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/prekshadixit/leetcode.prek/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prekshadixit/leetcode.prek/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prekshadixit/leetcode.prek/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/prekshadixit/leetcode.prek/tree/master/0414-third-maximum-number) |
+| [0645-set-mismatch](https://github.com/prekshadixit/leetcode.prek/tree/master/0645-set-mismatch) |
 ## Prefix Sum
 |  |
 | ------- |
