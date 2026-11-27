@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/prekshadixit/leetcode.prek/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/prekshadixit/leetcode.prek/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/prekshadixit/leetcode.prek/tree/master/0704-binary-search) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/prekshadixit/leetcode.prek/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prekshadixit/leetcode.prek/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prekshadixit/leetcode.prek/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/prekshadixit/leetcode.prek/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prekshadixit/leetcode.prek/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/prekshadixit/leetcode.prek/tree/master/0509-fibonacci-number) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/prekshadixit/leetcode.prek/tree/master/1000-minimum-cost-to-merge-stones) |
 ## Memoization
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/prekshadixit/leetcode.prek/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prekshadixit/leetcode.prek/tree/master/0560-subarray-sum-equals-k) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/prekshadixit/leetcode.prek/tree/master/1000-minimum-cost-to-merge-stones) |
 ## Divide and Conquer
 |  |
 | ------- |
